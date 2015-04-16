@@ -1,5 +1,5 @@
 # train-planner-europe
-A public data set / basic server for railroad planning in Europe
+A public dataset / basic server for railroad planning in Europe
 
 I'll write more about this public project later on.
 For now that's just it, just trying to find my way :)
